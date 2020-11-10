@@ -3,5 +3,6 @@
   name: @product.name,
   description: @product.description,
   general_use: @product.general_use,
-  price: @product.price
+  price: @product.price,
+  user_id: @product.user_id
 }
